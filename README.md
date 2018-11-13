@@ -10,3 +10,11 @@ As this is not the projects finishing point I did not want to set up a full auth
 ```
 ../CS3012-Github-API-Interrogation-Assignmnet-/js/app.js
 ```
+
+# Launch Website
+
+Once setup is complete once again go into the directory using your terminal and type the following command to run the website locally. 
+```
+live-server
+```
+If you do not have live server installed it should be downloaded along with your dependencies during the "npm-install"
