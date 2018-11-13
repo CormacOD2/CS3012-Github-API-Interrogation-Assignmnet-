@@ -1,0 +1,23 @@
+.button {
+  font-size: 1.8rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 600;
+  background: #9400D3;
+  color: white;
+  border-radius: 3px;
+  border: solid 2px #9400D3;
+  padding: 1rem 3rem;
+
+  @include small {
+    font-size: 1.4rem;
+  }
+
+  &--shallow {
+    background: transparent;
+
+    &:hover {
+      background-color: #9400D3;
+    }
+  }
+}

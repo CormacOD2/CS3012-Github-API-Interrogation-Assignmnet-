@@ -1,0 +1,16 @@
+{
+  "name": "SWENG",
+  "version": "1.0.0",
+  "description": "CS3012 Assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-sass --iclude-path scss sass/style.scss css/style.css"
+  },
+  "author": "Cormac O;Dwyer",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.1.3",
+    "node-sass": "^4.10.0",
+    "nodemon": "^1.18.6"
+  }
+}
