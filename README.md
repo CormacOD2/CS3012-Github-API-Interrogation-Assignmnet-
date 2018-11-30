@@ -18,3 +18,7 @@ Once setup is complete once again go into the directory using your terminal and 
 live-server
 ```
 If you do not have live server installed it should be downloaded along with your dependencies during the "npm-install"
+
+# Screenshots 
+![2](https://user-images.githubusercontent.com/25435664/49319489-0ef67d80-f4f5-11e8-88e5-907a51031b76.png)
+![1](https://user-images.githubusercontent.com/25435664/49319523-27669800-f4f5-11e8-8073-11d23625bbb6.png)
